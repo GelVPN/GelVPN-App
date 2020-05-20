@@ -1,5 +1,5 @@
 # GelVPN
-GelVPN is a chrome extension that has FREE VPN and it requires NO ACCOUNT! GelVPN has 75+ encrypted locations so you will never be exposed to the outside world.
+GelVPN is a browser extension that has FREE VPN and it requires NO ACCOUNT! GelVPN has 75+ encrypted locations so you will never be exposed to the outside world.
 #
 #### Features:
 ###### - 🔢 Simple to use
@@ -8,3 +8,11 @@ GelVPN is a chrome extension that has FREE VPN and it requires NO ACCOUNT! GelVP
 ###### - 🔒 256-bit encryption
 ###### - ⚡ Ultra-fast internet speeds
 ###### - 💸 Free - Forever
+#
+#### Compatible Browsers:
+###### - ❌ Chrome
+###### - ❌ Edge Chromium
+###### - ✔ Firefox
+###### - ✔ Opera
+###### - ✔ Opera GX
+###### - ✔ Vivaldi
