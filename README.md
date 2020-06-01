@@ -11,9 +11,9 @@ GelVPN is a browser extension that has FREE VPN and it requires NO ACCOUNT! GelV
 ###### - 💸 Free - Forever
 #
 #### Compatible Browsers:
-###### - ✔ Chrome (Recommended)
-###### - ✔ Edge Chromium
-###### - ✔ Firefox
+###### - ❌ Chrome
+###### - ❌ Edge Chromium
+###### - ❌ Firefox
 ###### - ✔ Opera
 ###### - ✔ Opera GX
 ###### - ✔ Vivaldi
